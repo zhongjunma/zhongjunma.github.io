@@ -1,5 +1,5 @@
 ---
-title: 🐎's blog
+title: Test blog
 author: Ma Zhongjun
 ---
 
