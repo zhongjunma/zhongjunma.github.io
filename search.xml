@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>有用的网站</title>
-    <url>/2021/03/02/%E6%9C%89%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<h1 id="Python-相关"><a href="#Python-相关" class="headerlink" title="Python 相关"></a>Python 相关</h1><h2 id="Jupyter-lab-extensions"><a href="#Jupyter-lab-extensions" class="headerlink" title="Jupyter lab extensions"></a>Jupyter lab extensions</h2><p>(Kite)[<a class="link"   href="https://github.com/kiteco/jupyterlab-kite#installing-the-kite-extension-for-jupyterlab]" >https://github.com/kiteco/jupyterlab-kite#installing-the-kite-extension-for-jupyterlab]<i class="fas fa-external-link-alt"></i></a></p>
-]]></content>
-      <tags>
-        <tag>笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Python Data Science Handbook 读书笔记 Numpy 篇</title>
     <url>/2021/02/23/PythonDataScienceHandbook-Numpy/</url>
     <content><![CDATA[<h1 id="Numpy-入门"><a href="#Numpy-入门" class="headerlink" title="Numpy 入门"></a>Numpy 入门</h1><p>不同于 Python lists，Numpy 牺牲了一些灵活性，采用了固定类型的数组来高效地储存和运算。</p>
@@ -105,6 +96,15 @@
       </categories>
       <tags>
         <tag>读书笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有用的网站</title>
+    <url>/2021/03/02/%E6%9C%89%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<h1 id="Python-相关"><a href="#Python-相关" class="headerlink" title="Python 相关"></a>Python 相关</h1><h2 id="Jupyter-lab-extensions"><a href="#Jupyter-lab-extensions" class="headerlink" title="Jupyter lab extensions"></a>Jupyter lab extensions</h2><p><a class="link"   href="https://github.com/kiteco/jupyterlab-kite#installing-the-kite-extension-for-jupyterlab" >Kite<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+      <tags>
+        <tag>笔记</tag>
       </tags>
   </entry>
 </search>
